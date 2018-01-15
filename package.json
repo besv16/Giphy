@@ -1,0 +1,19 @@
+{
+  "name": "giphy",
+  "version": "1.0.0",
+  "description": "Giphy assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/besv16/Giphy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/besv16/Giphy/issues"
+  },
+  "homepage": "https://github.com/besv16/Giphy#readme"
+}
