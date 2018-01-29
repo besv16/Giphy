@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "styles",
+	"sources": [
+		"../../src/styles/giphy.scss"
+	],
+	"names": [],
+	"mappings": ""
+}
